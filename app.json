@@ -35,6 +35,10 @@
 	    "description": "Get this from @ARQRobot.",
 	    "required": true
     },
+    "CHAT_ID": {
+            "description": "Fill Chat ID ",
+            "required":true
+    },
     "DEFAULT_SERVICE": {
             "description": "Must be one of youtube/saavn.",
             "value": "saavn",
